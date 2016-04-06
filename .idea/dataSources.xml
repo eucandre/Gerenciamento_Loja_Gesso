@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2011930768">
+    <data-source source="LOCAL" name="Django default" uuid="038d4172-56a5-4f83-a301-04c805bd3b46">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Gerenciamento_Loja_Gesso\loja_gesso.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
